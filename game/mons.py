@@ -97,6 +97,7 @@ class My:
 
         self.blit(scr)
 
+
 def main():
     global startFlag, flag
     start_x = 10
